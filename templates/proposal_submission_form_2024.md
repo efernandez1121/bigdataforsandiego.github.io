@@ -1,15 +1,15 @@
 ### 2024 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `115`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `PROBABILITY POWERHOUSE`    
   
-#### Your team’s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+#### Your team’s hackathon idea in One sentence: 
+##### `We propose to create an app that visualizes data from a dataset containing counts of inpatient hospitalizations and emergency department visits for patients with Behavioral Health Disorders; furthermore, this app aims to provide easier access to mental health information for patients.`
 
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
+![bigdatahackathon4sd]([https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024"](https://whws.org.au/why-it-is-important-to-get-on-top-of-your-mental-health-early/))
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
 <!--
